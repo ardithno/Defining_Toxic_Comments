@@ -9,9 +9,11 @@ The Wikishop online store is launching a new service. Now users can edit and sup
 Train a model to classify comments into positive and negative. Build a model with an F1 quality metric value of at least 0.75.
 
 ### *Data Description:*
-Data in the toxic_comments.csv table:
-text - comment text
-num_orders - target feature
+  Data in the toxic_comments.csv table:
+  
+    text - comment text
+    num_orders - target feature
+
 ### *Work Plan:*
 1. Data Preparation:
 - Data Unloading
